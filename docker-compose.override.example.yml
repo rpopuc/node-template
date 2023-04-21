@@ -1,0 +1,10 @@
+version: "3"
+
+# services:
+
+#   proxy:
+#     profiles: ["with-proxy"]
+
+#   app:
+#     ports:
+#       - 3000:3000
